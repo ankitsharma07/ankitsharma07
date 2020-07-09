@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on making a *Hackernews* mobile app (iOS) and a Machine Learning project based on NLP.
+- 🌱 I’m currently learning python, c++, data structures & algorithms and swift.
+- 📫 How to reach me: 
+  Email: nez.dev@icloud.com, [twitter](https://twitter.com/nezubn), [LinkedIn](https://www.linkedin.com/in/ankitkumar1107/)
+  
