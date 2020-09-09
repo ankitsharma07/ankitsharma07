@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+*"Man's greatest asset is the unsettled mind." ~ Isaac Asimov*
 
-- 🔭 I’m currently working on making a *Hackernews* mobile app (iOS) and a Machine Learning project based on NLP.
-- 🌱 I’m currently learning python, c++, data structures & algorithms and swift.
-- 📫 How to reach me: 
-  Email: nez.dev@icloud.com, [twitter](https://twitter.com/nezubn), [LinkedIn](https://www.linkedin.com/in/ankitkumar1107/)
-  
+I am currently working as an Machine Learning Engineer. I am passionate about iOS development, machine learning and advancement in the field of natural language processing.
+
+🤔 **Emacs** is what I prefer for note keeping and coding. 
+
+### 📫 You can reach me at: [twitter](https://twitter.com/nezubn "twitter") [linkedin](https://www.linkedin.com/in/ankitkumar1107/ "LinkedIn")
