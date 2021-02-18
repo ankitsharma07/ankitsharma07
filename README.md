@@ -21,6 +21,3 @@ I am currently working as an Machine Learning Engineer. I am passionate about iO
 🤔 **Emacs** is what I prefer for note keeping and coding. 
 
 ### 📫 You can reach me at: [twitter](https://twitter.com/nezubn "twitter") [linkedin](https://www.linkedin.com/in/ankitkumar1107/ "LinkedIn")
-
-### A little support is appreciated 
-<a href="https://www.buymeacoffee.com/nezubn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
