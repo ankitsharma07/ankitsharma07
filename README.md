@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 *"Man's greatest asset is the unsettled mind." ~ Isaac Asimov*
 
-I am currently working as an Machine Learning Engineer. I am passionate about iOS development, machine learning and advancement in the field of natural language processing.
+I am currently working as an Machine Learning Engineer. I am passionate about iOS development, machine learning and advancement in the field of natural language processing and AGI.
 
 🤔 **Emacs** is what I prefer for note keeping and coding. 
 
