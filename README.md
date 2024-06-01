@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 *"Man's greatest asset is the unsettled mind." ~ Isaac Asimov*
 
-I am currently working as an Machine Learning Engineer. 
+I am currently working as an Machine Learning Engineer.
 
-I am passionate about Machine Learning and advancement in the field of Natural Language Processing. In my free time I wander around open source codebases and develop on Apple Platforms.
+I am passionate about Machine Learning and advancement in the field of Natural Language Processing and LLMs. In my free time I wander around open source codebases and develop on Apple Platforms.
 
 🤔 **Emacs** is my favorite editor. Best for everything that is there.
 
