@@ -21,4 +21,3 @@ I am passionate about the advancements in the field of Natural Language Processi
 **Emacs** is my favorite editor.
 
 You can reach me on: [x ~ twitter](https://x.com/nezubn "twitter") or on [linkedin](https://www.linkedin.com/in/ankitkumar1107/ "LinkedIn") or you can [mail me](mailto:ankit@nezubn.com)
-My web presence: [](https://nezubn.com)
