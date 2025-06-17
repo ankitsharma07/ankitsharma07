@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 *"Man's greatest asset is the unsettled mind." ~ Isaac Asimov*
 
-I am a Machine Learning Engineer. My interests includes systems, machine learning and engineering.
+I am a Machine Learning Engineer. 
+I am interested in Engineering, ML, Systems, and Apple Platforms [iOS, macOS, visionOS]
 
-I am passionate about the advancements in the field of Natural Language Processing and LLMs. In my free time I build and wander around open source codebases and develop on Apple Platforms.
-
-**Emacs** is my favorite editor.
+**Emacs** is my favorite editor. 
 
 You can reach me on: [x ~ twitter](https://x.com/nezubn "twitter") or on [linkedin](https://www.linkedin.com/in/ankitkumar1107/ "LinkedIn") or you can [mail me](mailto:ankit@nezubn.com)
