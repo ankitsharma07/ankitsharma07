@@ -1,22 +1,11 @@
-<!--
-**ankitsharma07/ankitsharma07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 *"Man's greatest asset is the unsettled mind." ~ Isaac Asimov*
 
-I am a Machine Learning Engineer. 
-I am interested in Engineering, ML, Systems, and Apple Platforms [iOS, macOS, visionOS]
+I am an ML/AI Engineer.
+<br>
+I am interested in **Engineering, ML, Systems**, and **Apple Platforms** [iOS, macOS, visionOS]
 
-**Emacs** is my favorite editor. 
-
+**Emacs** is my favorite editor. Recently, I have been trying [zed](https://zed.dev) as my main editor and it really feels polished.
+<br>
+[More about me](https://nezubn.com/about)
+<br>
 You can reach me on: [x ~ twitter](https://x.com/nezubn "twitter") or on [linkedin](https://www.linkedin.com/in/ankitkumar1107/ "LinkedIn") or you can [mail me](mailto:ankit@nezubn.com)
